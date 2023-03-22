@@ -28,16 +28,16 @@
 ```
 
 比如，可修改为以下
-
+如果需要增加新的环境变量，请用'"xxx"'包裹
 ```js
 {
   env: {
-    OPEN_API_KEY: 'xxx',
-    OPEN_API_BASE_URL: 'xxx',
-    TITLE: '口舌之王',
-    SUBTITLE: '发泄一下你的怒气吧!',
-    INIT_INPUT: '你为什么要惹我生气!',
-    CHAT_PROMPT: '假如你现在是一个爱吵架的骂人精，以后我说的每一句话都用骂人精的角色口吻来回复。'
+    OPEN_API_KEY: '"xxx"',
+    OPEN_API_BASE_URL: '"xxx"',
+    TITLE: '"口舌之王"',
+    SUBTITLE: '"发泄一下你的怒气吧!"',
+    INIT_INPUT: '"你为什么要惹我生气!"',
+    CHAT_PROMPT: '"假如你现在是一个爱吵架的骂人精，以后我说的每一句话都用骂人精的角色口吻来回复。"'
   }
 }
 ````
