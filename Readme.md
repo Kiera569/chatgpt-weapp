@@ -1,6 +1,6 @@
 # 一分钟创建 ChatGPT 微信小程序
 
-![口舌之王](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f83153de48b44ac874191fb4adc69c4~tplv-k3u1fbpfcp-watermark.image?)
+<img src="https://static.shanyue.tech/images/23-03-27/clipboard-0849.2a7887.webp" width="400">
 
 ## 用法
 
@@ -27,8 +27,8 @@
 }
 ```
 
-比如，可修改为以下
-如果需要增加新的环境变量，请用'"xxx"'包裹
+比如，可修改为以下，请记得再次使用 `"` 进行包裹。
+
 ```js
 {
   env: {
@@ -50,4 +50,4 @@
 
 ## 微信交流
 
-![](https://static.shanyue.tech/images/23-03-20/clipboard-3631.710527.webp)
+<img src="https://static.shanyue.tech/images/23-03-27/hello.1f5aef.webp" width="300">
